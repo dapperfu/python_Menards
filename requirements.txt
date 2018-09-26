@@ -1,0 +1,6 @@
+selenium
+jupyter
+notebook
+nbconvert
+
+git+https://github.com/jed-frey/jupyter_NotebookCleaners.git#egg=notebookcleaner
