@@ -4,3 +4,5 @@ notebook
 nbconvert
 
 git+https://github.com/jed-frey/jupyter_NotebookCleaners.git#egg=notebookcleaner
+
+# 18.04: python3.7 python3.7-dev  python3.7-venv

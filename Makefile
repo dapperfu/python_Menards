@@ -1,9 +1,9 @@
 # Config
-VENV:=_menards
+VENV:=.
 
 # Environments to setup for this project
 # Available options: python arduino
-ENVS:=python git
+ENVS:=python
 
 ## make_sandwich includes
 # https://github.com/jed-frey/make_sandwich
